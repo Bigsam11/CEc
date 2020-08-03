@@ -14,12 +14,12 @@ export class ProductService {
     {
       id: 1,
       text: "Everfresh Flowers",
-      image: ["https://ledscreensandlights.com/wp-content/uploads/2018/08/9.gif"]
+      image: ["http://www.getsygnal.com/uploads/products/3147701531479054.gif"]
     },
     {
       id: 2,
       text: "Festive Deer",
-      image: ["http://www.dkuniqueproduct.com/assets/images/3d-hologram-led-fan-500x500-2-500x500.jpg"]
+      image: ["https://cdn140.picsart.com/268948212025211.png?r1024x1024"]
     },
     {
       id: 3,

@@ -8,7 +8,7 @@ import { MatSidenav } from '@angular/material';
 })
 export class AppComponent {
   @ViewChild('drawer', {static: false}) drawer: MatSidenav;
-  title = 'e-comm';
+  title = 'Cec-Market';
   
   toggelNavbar () {
     this.drawer.toggle();

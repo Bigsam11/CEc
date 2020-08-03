@@ -30,7 +30,7 @@
             "styles": [
               "src/styles.scss",
               "./node_modules/owl.carousel/dist/assets/owl.carousel.css",
-             "./node_modules/owl.carousel/dist/assets/owl.theme.default.css"
+              "./node_modules/owl.carousel/dist/assets/owl.theme.default.css"
             ],
             "scripts": [
               "./node_modules/jquery/dist/jquery.js",
@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "e-comm"
+    }
+  },
+  "defaultProject": "e-comm",
+  "cli": {
+    "analytics": "59f5315a-912b-49a7-876b-c9b21b401061"
+  }
 }
