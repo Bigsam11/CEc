@@ -33,7 +33,7 @@
     "bootstrap": "^4.3.1",
     "express": "^4.17.1",
     "firebase-tools": "^8.6.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ng-bootstrap": "^1.6.3",
     "ngx-owl-carousel": "^2.0.7",
     "path": "^0.12.7",
